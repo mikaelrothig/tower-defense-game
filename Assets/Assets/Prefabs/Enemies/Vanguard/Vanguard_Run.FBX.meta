@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: 932d6dbae096e364aa0aa9a537acbe85
+timeCreated: 1561838157
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cube.001_Cube.011
+    100002: Cube.002_Cube.012
+    100004: Cylinder.001_Cylinder.003
+    100006: Cylinder.003_Cylinder.005
+    100008: Head
+    100010: HeadTop_End
+    100012: Hips
+    100014: Icosphere.000_Icosphere.003
+    100016: Icosphere.001_Icosphere.002
+    100018: LeftArm
+    100020: LeftFoot
+    100022: LeftForeArm
+    100024: LeftHand
+    100026: LeftHandIndex1
+    100028: LeftHandIndex2
+    100030: LeftHandIndex3
+    100032: LeftHandIndex4
+    100034: LeftLeg
+    100036: LeftShoulder
+    100038: LeftToe_End
+    100040: LeftToeBase
+    100042: LeftUpLeg
+    100044: Neck
+    100046: RightArm
+    100048: RightFoot
+    100050: RightForeArm
+    100052: RightHand
+    100054: RightHandIndex1
+    100056: RightHandIndex2
+    100058: RightHandIndex3
+    100060: RightHandIndex4
+    100062: RightLeg
+    100064: RightShoulder
+    100066: RightToe_End
+    100068: RightToeBase
+    100070: RightUpLeg
+    100072: Sphere
+    100074: Spine
+    100076: Spine1
+    100078: Spine2
+    100080: //RootNode
+    400000: Cube.001_Cube.011
+    400002: Cube.002_Cube.012
+    400004: Cylinder.001_Cylinder.003
+    400006: Cylinder.003_Cylinder.005
+    400008: Head
+    400010: HeadTop_End
+    400012: Hips
+    400014: Icosphere.000_Icosphere.003
+    400016: Icosphere.001_Icosphere.002
+    400018: LeftArm
+    400020: LeftFoot
+    400022: LeftForeArm
+    400024: LeftHand
+    400026: LeftHandIndex1
+    400028: LeftHandIndex2
+    400030: LeftHandIndex3
+    400032: LeftHandIndex4
+    400034: LeftLeg
+    400036: LeftShoulder
+    400038: LeftToe_End
+    400040: LeftToeBase
+    400042: LeftUpLeg
+    400044: Neck
+    400046: RightArm
+    400048: RightFoot
+    400050: RightForeArm
+    400052: RightHand
+    400054: RightHandIndex1
+    400056: RightHandIndex2
+    400058: RightHandIndex3
+    400060: RightHandIndex4
+    400062: RightLeg
+    400064: RightShoulder
+    400066: RightToe_End
+    400068: RightToeBase
+    400070: RightUpLeg
+    400072: Sphere
+    400074: Spine
+    400076: Spine1
+    400078: Spine2
+    400080: //RootNode
+    2100000: No Name
+    4300000: Sphere
+    4300002: Cylinder.001_Cylinder.003
+    4300004: Cylinder.003_Cylinder.005
+    4300006: Icosphere.001_Icosphere.002
+    4300008: Icosphere.000_Icosphere.003
+    4300010: Cube.001_Cube.011
+    4300012: Cube.002_Cube.012
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Cube.001_Cube.011
+    13700002: Cube.002_Cube.012
+    13700004: Cylinder.001_Cylinder.003
+    13700006: Cylinder.003_Cylinder.005
+    13700008: Icosphere.000_Icosphere.003
+    13700010: Icosphere.001_Icosphere.002
+    13700012: Sphere
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

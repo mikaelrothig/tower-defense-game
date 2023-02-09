@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: f08d712d009a5454cad96154f8d7376a
+timeCreated: 1538681485
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BlowBrush
+  fontNames:
+  - BlowBrush
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0b42209ef8a9f0041af6b160b57882cd, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

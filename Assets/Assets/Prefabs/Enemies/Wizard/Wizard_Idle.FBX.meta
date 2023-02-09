@@ -1,0 +1,290 @@
+fileFormatVersion: 2
+guid: 368231417a9ec9f48b5d1d14f7031a60
+timeCreated: 1561838149
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cube.001_Cube.011
+    100002: Cube.002_Cube.012
+    100004: Cylinder.001_Cylinder.003
+    100006: Cylinder.002_Cylinder.008
+    100008: Cylinder.003_Cylinder.005
+    100010: Cylinder.004_Cylinder
+    100012: Cylinder.005_Cylinder.004
+    100014: Cylinder.006
+    100016: Cylinder.007
+    100018: Cylinder.008_Cylinder.009
+    100020: Cylinder_Cylinder.002
+    100022: Head
+    100024: HeadTop_End
+    100026: Hips
+    100028: Icosphere.000_Icosphere.003
+    100030: Icosphere.001_Icosphere.002
+    100032: LeftArm
+    100034: LeftFoot
+    100036: LeftForeArm
+    100038: LeftHand
+    100040: LeftHandIndex1
+    100042: LeftHandIndex2
+    100044: LeftHandIndex3
+    100046: LeftHandIndex4
+    100048: LeftHandMiddle1
+    100050: LeftHandMiddle2
+    100052: LeftHandMiddle3
+    100054: LeftHandMiddle4
+    100056: LeftHandRing1
+    100058: LeftHandRing2
+    100060: LeftHandRing3
+    100062: LeftHandRing4
+    100064: LeftHandThumb1
+    100066: LeftHandThumb2
+    100068: LeftHandThumb3
+    100070: LeftHandThumb4
+    100072: LeftLeg
+    100074: LeftShoulder
+    100076: LeftToe_End
+    100078: LeftToeBase
+    100080: LeftUpLeg
+    100082: mixamorig:RightShoulder
+    100084: Neck
+    100086: RightArm
+    100088: RightFoot
+    100090: RightForeArm
+    100092: RightHand
+    100094: RightHandIndex1
+    100096: RightHandIndex2
+    100098: RightHandIndex3
+    100100: RightHandIndex4
+    100102: RightHandMiddle1
+    100104: RightHandMiddle2
+    100106: RightHandMiddle3
+    100108: RightHandMiddle4
+    100110: RightHandRing1
+    100112: RightHandRing2
+    100114: RightHandRing3
+    100116: RightHandRing4
+    100118: RightHandThumb1
+    100120: RightHandThumb2
+    100122: RightHandThumb3
+    100124: RightHandThumb4
+    100126: RightLeg
+    100128: RightToe_End
+    100130: RightToeBase
+    100132: RightUpLeg
+    100134: Sphere
+    100136: Spine
+    100138: Spine1
+    100140: Spine2
+    100142: //RootNode
+    400000: Cube.001_Cube.011
+    400002: Cube.002_Cube.012
+    400004: Cylinder.001_Cylinder.003
+    400006: Cylinder.002_Cylinder.008
+    400008: Cylinder.003_Cylinder.005
+    400010: Cylinder.004_Cylinder
+    400012: Cylinder.005_Cylinder.004
+    400014: Cylinder.006
+    400016: Cylinder.007
+    400018: Cylinder.008_Cylinder.009
+    400020: Cylinder_Cylinder.002
+    400022: Head
+    400024: HeadTop_End
+    400026: Hips
+    400028: Icosphere.000_Icosphere.003
+    400030: Icosphere.001_Icosphere.002
+    400032: LeftArm
+    400034: LeftFoot
+    400036: LeftForeArm
+    400038: LeftHand
+    400040: LeftHandIndex1
+    400042: LeftHandIndex2
+    400044: LeftHandIndex3
+    400046: LeftHandIndex4
+    400048: LeftHandMiddle1
+    400050: LeftHandMiddle2
+    400052: LeftHandMiddle3
+    400054: LeftHandMiddle4
+    400056: LeftHandRing1
+    400058: LeftHandRing2
+    400060: LeftHandRing3
+    400062: LeftHandRing4
+    400064: LeftHandThumb1
+    400066: LeftHandThumb2
+    400068: LeftHandThumb3
+    400070: LeftHandThumb4
+    400072: LeftLeg
+    400074: LeftShoulder
+    400076: LeftToe_End
+    400078: LeftToeBase
+    400080: LeftUpLeg
+    400082: mixamorig:RightShoulder
+    400084: Neck
+    400086: RightArm
+    400088: RightFoot
+    400090: RightForeArm
+    400092: RightHand
+    400094: RightHandIndex1
+    400096: RightHandIndex2
+    400098: RightHandIndex3
+    400100: RightHandIndex4
+    400102: RightHandMiddle1
+    400104: RightHandMiddle2
+    400106: RightHandMiddle3
+    400108: RightHandMiddle4
+    400110: RightHandRing1
+    400112: RightHandRing2
+    400114: RightHandRing3
+    400116: RightHandRing4
+    400118: RightHandThumb1
+    400120: RightHandThumb2
+    400122: RightHandThumb3
+    400124: RightHandThumb4
+    400126: RightLeg
+    400128: RightToe_End
+    400130: RightToeBase
+    400132: RightUpLeg
+    400134: Sphere
+    400136: Spine
+    400138: Spine1
+    400140: Spine2
+    400142: //RootNode
+    2100000: No Name
+    4300000: Sphere
+    4300002: Cylinder_Cylinder.002
+    4300004: Cylinder.001_Cylinder.003
+    4300006: Cylinder.003_Cylinder.005
+    4300008: Cylinder.002_Cylinder.008
+    4300010: Icosphere.001_Icosphere.002
+    4300012: Icosphere.000_Icosphere.003
+    4300014: Cube.001_Cube.011
+    4300016: Cube.002_Cube.012
+    4300018: Cylinder.004_Cylinder
+    4300020: Cylinder.005_Cylinder.004
+    4300022: Cylinder.006
+    4300024: Cylinder.007
+    4300026: Cylinder.008_Cylinder.009
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Cube.001_Cube.011
+    13700002: Cube.002_Cube.012
+    13700004: Cylinder.001_Cylinder.003
+    13700006: Cylinder.002_Cylinder.008
+    13700008: Cylinder.003_Cylinder.005
+    13700010: Cylinder.004_Cylinder
+    13700012: Cylinder.005_Cylinder.004
+    13700014: Cylinder.006
+    13700016: Cylinder.007
+    13700018: Cylinder.008_Cylinder.009
+    13700020: Cylinder_Cylinder.002
+    13700022: Icosphere.000_Icosphere.003
+    13700024: Icosphere.001_Icosphere.002
+    13700026: Sphere
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
